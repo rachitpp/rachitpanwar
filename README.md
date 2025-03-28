@@ -24,7 +24,10 @@ I enjoy building applications that solve real-world problems and continuously im
 🔐 [MERN Authentication System](https://github.com/rachitpp/MERN_AUTH) - Secure authentication with OTP verification  
 
 ---
+## 💡 Random Dev Quote:
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+---
 
 ## 📞 Contact Me  
 📧 Email: rachitpanwar0072@gmail.com  

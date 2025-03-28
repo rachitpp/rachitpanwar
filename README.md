@@ -13,8 +13,10 @@ I enjoy building applications that solve real-world problems and continuously im
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=rachitpanwar&theme=react&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitpanwar&layout=compact&theme=react)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachitpp&show_icons=true&theme=dark&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rachitpp&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitpp&layout=compact&theme=dark&langs_count=6)
+
 
 ---
 

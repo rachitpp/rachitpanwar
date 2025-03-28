@@ -19,10 +19,9 @@ I enjoy building applications that solve real-world problems and continuously im
 ---
 
 ## 🏆 Recent Projects  
-🚀 [Fast React Pizza](https://github.com/rachitpanwar/fast-react-pizza) - An online pizza ordering app  
-⚡ [Doctor Appointment System](https://github.com/rachitpanwar/doctor-appointment) - Full-stack appointment booking system  
-🔐 [MERN Authentication System](https://github.com/rachitpanwar/mern-auth) - Secure authentication with OTP verification  
-💡 [DebugXpert](https://github.com/rachitpanwar/debugxpert) - AI-powered code review tool (Work in progress)  
+🚀 [Fast React Pizza](https://github.com/rachitpp/fast-react-pizza) - An online pizza ordering app  
+⚡ [Doctor Appointment System](https://github.com/rachitpp/DocQueue) - Full-stack appointment booking system  
+🔐 [MERN Authentication System](https://github.com/rachitpp/MERN_AUTH) - Secure authentication with OTP verification  
 
 ---
 

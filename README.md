@@ -14,7 +14,6 @@ I enjoy building applications that solve real-world problems and continuously im
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachitpp&show_icons=true&theme=dark&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=rachitpp&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitpp&layout=compact&theme=dark&langs_count=6)
 
 

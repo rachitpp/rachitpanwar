@@ -18,7 +18,7 @@
   <a href="https://instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://x.com/">
+  <a href="https://x.com/rachit1972">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
   </a>
   <img src="https://komarev.com/ghpvc/?username=rachitpp&style=flat-square&color=blue" alt="Profile views">

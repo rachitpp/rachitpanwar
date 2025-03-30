@@ -1,10 +1,10 @@
-# <div align="center">👨‍💻 Rachit Panwar</div>
+# <div align="center"><span style="font-size: 32px; font-weight: 700;">👨‍💻 Rachit Panwar</span></div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&height=70&lines=Full-Stack+Developer;Computer+Science+Student;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&height=70&lines=Full-Stack+Developer;Computer+Science+Student;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
   <p>
-    <samp>🔭 Undergrad at <b>Graphic Era Hill University</b> pursuing B.Tech (CSE) | 
+    <samp><b>🔭 Undergrad at <b>Graphic Era Hill University</b> pursuing B.Tech (CSE) | 
     💼 Building scalable applications | 
-    🚀 Full-stack development with web & AI</samp>
+    🚀 Full-stack development with web & AI</b></samp>
   </p>
   <a href="https://www.linkedin.com/in/rachit72/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -107,28 +107,6 @@
       </td>
     </tr>
   </table>
-</div>
-</details>
-
-<details open>
-<summary><h2>📚 Currently Learning</h2></summary>
-<div align="center">
-  
-  ```mermaid
-  mindmap
-    root((Skills))
-      Advanced React
-        Context API
-        Hooks
-        Performance Optimization
-      Backend Development
-        Node.js
-        Express
-      Machine Learning
-        Code Analysis
-        Natural Language Processing
-  ```
-
 </div>
 </details>
 
